@@ -1,5 +1,10 @@
-var today = document.getElementById("currentDay");
+var display_today = document.getElementById("currentDay");
+
 
 var a = moment().format("MMM Do YY");
 
-today.innerHTML = a;
+display_today.innerHTML = a;
+
+
+submit
+
